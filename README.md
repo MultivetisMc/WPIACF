@@ -15,4 +15,4 @@ Builds: http://ci.minebench.de/job/WhatPlugin/
 
 ![What Pumpkin?](http://i.imgur.com/R4qKzuE.png)
 
-# Installation of developement inveronement
+# Installation of developement inveronnement
